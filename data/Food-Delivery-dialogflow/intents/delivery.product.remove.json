@@ -1,0 +1,94 @@
+{
+  "id": "df2ce6bd-bc11-417d-9408-078abbdaf01f",
+  "name": "delivery.product.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.product.remove",
+      "affectedContexts": [
+        {
+          "name": "delivery-remove",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b5f00516-039f-4fd7-adb5-c45c7f112ee1",
+          "name": "product",
+          "required": false,
+          "dataType": "@delivery-product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "33f9be29-37b3-4daf-abd1-c7fe61962dd3",
+          "name": "cuisine",
+          "required": false,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "454206ed-3b5a-4de4-878f-77b2ea1ff53b",
+          "name": "all",
+          "required": false,
+          "dataType": "@all",
+          "value": "$all",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7288a4c8-2a45-4cc6-89cd-3d84eb6b3549",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

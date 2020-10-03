@@ -1,0 +1,68 @@
+{
+  "id": "b3906bb1-65c1-42c5-a083-aa223ee91778",
+  "name": "delivery.product.add",
+  "auto": true,
+  "contexts": [
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.product.add",
+      "affectedContexts": [
+        {
+          "name": "delivery-add",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "06553b5a-db71-4499-9d5f-d0a9409a084a",
+          "name": "product",
+          "required": false,
+          "dataType": "@delivery-product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "be9074de-863b-47cd-bb20-ddcfe4987346",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "1fa85fe0-b7d9-42fd-b06d-b061fc461ace",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you change ",
+        "userDefined": false
+      },
+      {
+        "text": "Japanese",
+        "meta": "@cuisine",
+        "alias": "cuisine-from",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": true
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine-to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumplings",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3767477-28ce-4a7e-a282-621df0fa79ae",
+    "data": [
+      {
+        "text": "swap ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@cuisine",
+        "alias": "cuisine-from",
+        "userDefined": true
+      },
+      {
+        "text": " food for something ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@cuisine",
+        "alias": "cuisine-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9177c446-0067-4285-9001-5f4e4ddc52ee",
+    "data": [
+      {
+        "text": "change the products in my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b03a9f0b-9595-42ab-b11a-12b45b1d3860",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sprite",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26c9f12a-af66-4c61-adec-2e752ff3190d",
+    "data": [
+      {
+        "text": "change ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sprite",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e30e01a4-291a-4cce-9b84-bdfc491cc2e9",
+    "data": [
+      {
+        "text": "swap products in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f889c444-e9a4-47b3-8064-51d8e343d927",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@cuisine",
+        "alias": "cuisine-from",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "880d472e-4790-45cf-8ddc-42d0b2e013dd",
+    "data": [
+      {
+        "text": "swap ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "french fries",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03884ede-b92d-4f37-b416-95646500fb0d",
+    "data": [
+      {
+        "text": "swap the ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "meta": "@delivery-product",
+        "alias": "product-from",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "Fanta",
+        "meta": "@delivery-product",
+        "alias": "product-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

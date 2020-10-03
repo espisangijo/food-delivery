@@ -1,0 +1,164 @@
+{
+  "id": "4e37ba87-5373-4fca-97f6-3aaff24f03e1",
+  "name": "delivery.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.search",
+      "affectedContexts": [
+        {
+          "name": "delivery",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d4b79a7-25f4-4e92-bc5c-13acf5168dd4",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3c97be99-2d3b-407e-a112-1e42aa1f2360",
+          "name": "product",
+          "required": false,
+          "dataType": "@delivery-product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3a570b55-b889-4b7f-8421-f0dc6e90d2f5",
+          "name": "address",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$address",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "45562232-c906-4d7a-b3d2-4150c652d5a9",
+          "name": "cuisine",
+          "required": false,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "716f5cce-1725-4cb1-8f53-ed667273b449",
+          "name": "meal",
+          "required": false,
+          "dataType": "@meal",
+          "value": "$meal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a74cfd40-fdf4-4082-9055-5f3c50cd5d20",
+          "name": "venue-chain",
+          "required": false,
+          "dataType": "@venue-eating-out-chain",
+          "value": "$venue-chain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f0660a8d-db6f-4838-81a2-0fe0338d6659",
+          "name": "sort",
+          "required": false,
+          "dataType": "@map-sort",
+          "value": "$sort",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cbbc5ae7-c8b5-40a3-bc34-2c4fc66e1b30",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "23397ddd-c791-44c0-aa08-d84c67e6417a",
+          "name": "recurrence",
+          "required": false,
+          "dataType": "@recurrence",
+          "value": "$recurrence",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

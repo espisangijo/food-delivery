@@ -1,0 +1,63 @@
+{
+  "id": "6291c8c2-2c9f-4910-9e55-f202109e985b",
+  "name": "delivery.search - context:delivery",
+  "auto": true,
+  "contexts": [
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20a7f0ba-9882-4691-aa3b-af76a31cd8cb",
+          "name": "product",
+          "required": false,
+          "dataType": "@delivery-product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7d5bece0-c374-434d-b8e0-2d007b35afa2",
+          "name": "cuisine",
+          "required": false,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

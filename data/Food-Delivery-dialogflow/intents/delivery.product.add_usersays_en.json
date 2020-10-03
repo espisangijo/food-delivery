@@ -1,0 +1,451 @@
+[
+  {
+    "id": "c3d9d656-2569-4cd2-bec5-7e07d4e6f879",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "diet Cokes",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c24ef78-ab65-4881-99e0-4df3ac9e6195",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I have ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "burgers",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05462257-dc70-4154-84ae-77f110df8f11",
+    "data": [
+      {
+        "text": "another ",
+        "userDefined": false
+      },
+      {
+        "text": "salad",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2ac9487-d47e-4fb8-adf4-ae2e7aa99284",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "burgers",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a243f01-e453-4f3a-a617-d0a6af37c568",
+    "data": [
+      {
+        "text": "add extra ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e585bbb-4a65-4745-bbd1-95e273327867",
+    "data": [
+      {
+        "text": "can I have a pepperoni ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "hawaiian pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b144f50-64d7-4b79-b6c1-7ed4a518a693",
+    "data": [
+      {
+        "text": "add another ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a042cf61-cf0a-45c1-a919-8b2a13cedabc",
+    "data": [
+      {
+        "text": "please add a ",
+        "userDefined": false
+      },
+      {
+        "text": "large pepperoni pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "regular diet Pepsi",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "brownie",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "bread sticks",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5ccc03a-4643-4bcf-8df7-ddec971bff3a",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you add ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " more ",
+        "userDefined": false
+      },
+      {
+        "text": "milkshake",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94dd6142-bf2d-4d8b-9afe-902ee8ecba47",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      },
+      {
+        "text": " more portion of ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c7fd900-ae92-4821-8d84-523dcd15dec6",
+    "data": [
+      {
+        "text": "another ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5dc3671-1a50-4583-aa33-960eec9604c5",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "wish",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148f89e7-9974-4c98-a201-994be83441b9",
+    "data": [
+      {
+        "text": "I\u0027d like to have more ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43c77cf3-35ef-4a91-8b0c-027b4491278b",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

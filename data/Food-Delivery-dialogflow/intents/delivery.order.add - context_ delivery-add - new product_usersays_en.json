@@ -1,0 +1,285 @@
+[
+  {
+    "id": "f5e4c773-fd0b-4469-881f-7b09a73bd5db",
+    "data": [
+      {
+        "text": "some ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " would be also nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49192a88-662e-43cd-95ac-c0085712e335",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you add ",
+        "userDefined": false
+      },
+      {
+        "text": "beans",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f3f164-8e4b-40d4-8732-a85b8be66c10",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e23bcd-db49-4ffe-a65f-80db40f5e740",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "tomatoes",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d030289-707a-4ac0-91dc-3b0b3f5d886f",
+    "data": [
+      {
+        "text": "I\u0027d like to add ",
+        "userDefined": false
+      },
+      {
+        "text": "meat",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6b5d24-896a-46c6-ab0e-de2cda865732",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da09d4c7-416e-4da8-9bb0-16caf51eb70c",
+    "data": [
+      {
+        "text": "some ",
+        "userDefined": false
+      },
+      {
+        "text": "beans",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84a15966-bbf6-4775-9419-e37d89c0a0ef",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23ad6880-8661-43b3-a5f3-bddf3b73f6df",
+    "data": [
+      {
+        "text": "tomatoes",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e06a9b94-ba92-449e-94c3-3d75fc1e0310",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "butter",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d59a86-1dd1-4e60-897f-0995a81f7eb9",
+    "data": [
+      {
+        "text": "and a ",
+        "userDefined": false
+      },
+      {
+        "text": "pie",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ecff9a2-33cf-4d43-bf2d-04ee7b24bc68",
+    "data": [
+      {
+        "text": "some ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@delivery-product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
