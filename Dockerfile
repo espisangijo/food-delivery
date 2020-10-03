@@ -1,12 +1,6 @@
-FROM python:3.7
-
-COPY Pipfile* /
-RUN pip install pipenv
-RUN pipenv lock -r > /requirements.txt
-RUN pip install -r /requirements.txt
-RUN pip install rasa==1.10.14
-
-COPY . /app
-WORKDIR /app
-RUN chmod +x start_services.sh
-CMD ./start_services.sh
+FROM ubuntu:18.04
+ENTRYPOINT []
+RUN apt-get update && apt-get install -y python3 python3-pip && python3 -m pip install --no-cache --upgrade pip && pip3 install --no-cache rasa==1.10.14
+ADD . /app/
+RUN chmod +x /app/start_services.sh
+CMD /app/start_services.sh
