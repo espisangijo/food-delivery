@@ -1,2 +1,4 @@
-rasa run --model models --enable-api --cors "*" --debug \
-         -p 5002
+rasa run --model models --enable-api --cors “*” --debug \
+        --endpoints endpoints.yml \
+        --credentials credentials.yml \
+        -p $PORT
